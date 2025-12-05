@@ -1,0 +1,2 @@
+// This file is deprecated. Please use databaseService.ts
+export const productService = {};
